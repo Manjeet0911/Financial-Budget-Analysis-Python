@@ -1,12 +1,25 @@
-# Financial Budget Tracker 📊
-A Data Analysis project to automate financial tracking.
+# 📊 Financial Budget Tracker
+An automated tool to clean, analyze, and visualize personal financial data.
 
-### Tech Stack Used:
-- **Language:** Python 3.13
-- **Libraries:** Pandas, Matplotlib, Seaborn
-- **Tool:** Jupyter Notebook
+## 🚀 Project Overview
+This project takes raw transaction data, cleans it using Python, and generates a visual dashboard to track spending habits. It helps in understanding the savings rate and identifying the top expense categories.
 
-### Project Overview:
-I created this project to clean raw transaction data and visualize spending patterns. 
-It calculates the **Savings Rate** automatically using the formula:
-$$Savings\ Rate = \frac{Total\ Income - Total\ Expense}{Total\ Income} \times 100$$
+## 🛠️ Tech Stack
+* **Language:** Python 3.13
+* **Libraries:** Pandas (Data Cleaning), Matplotlib & Seaborn (Visualization)
+* **Tool:** Jupyter Notebook
+
+## 📈 Key Insights from Data
+Based on the analysis of 200 transactions:
+* **Total Savings:** $1,164,539
+* **Savings Rate:** **66.20%** 💰
+* **Top Expense:** Internet, Groceries, and Rent.
+
+## 📁 Files in this Repository
+* `Financial_Budget_Tracker.ipynb`: The main Python code.
+* `raw_budget_data.csv`: Original uncleaned dataset.
+* `cleaned_budget_data.csv`: Processed data ready for analysis.
+* `Financial_Budget_Tracker.html`: Exported report for easy viewing.
+
+---
+*Created as part of my Data Analytics portfolio.*
