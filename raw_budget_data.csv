@@ -1,0 +1,201 @@
+Date,Category,Amount,Type
+2026-01-03,Shopping,1876,Expense
+2026-02-16,Dining Out,5049,Expense
+2026-02-20,Utilities,946,Expense
+2026-02-26,Transport,4152,Expense
+2026-01-21,Groceries,6017,Expense
+2026-02-15,Internet,868,Expense
+2026-01-27,Salary,47006,Income
+2026-01-21,Utilities,6047,Expense
+2026-02-06,Bonus,42654,Income
+2026-02-23,Groceries,3052,Expense
+2026-01-13,Bonus,24011,Income
+2026-01-01,Bonus,49718,Income
+2026-03-02,Transport,1145,Expense
+2026-01-05,Rent,6991,Expense
+2026-01-19,Dining Out,6731,Expense
+2026-02-12,Salary,11645,Income
+2026-02-27,Groceries,2396,Expense
+2026-01-29,Transport,766,Expense
+2026-01-22,Dining Out,6816,Expense
+2026-01-02,Transport,3311,Expense
+2026-01-04,Groceries,7066,Expense
+2026-02-02,Groceries,7486,Expense
+2026-02-28,Internet,6878,Expense
+2026-02-28,Internet,6157,Expense
+2026-02-13,Groceries,994,Expense
+2026-01-19,Bonus,48809,Income
+2026-02-21,Dining Out,4013,Expense
+2026-01-27,Salary,24870,Income
+2026-01-04,Shopping,2193,Expense
+2026-01-16,Freelance,39636,Income
+2026-02-23,Internet,3441,Expense
+2026-02-23,Shopping,7342,Expense
+2026-03-01,Freelance,38406,Income
+2026-01-15,Dining Out,466,Expense
+2026-02-10,Transport,3171,Expense
+2026-02-12,Rent,2744,Expense
+2026-02-13,Dining Out,7193,Expense
+2026-01-20,Shopping,7462,Expense
+2026-01-08,Rent,6922,Expense
+2026-02-06,Groceries,162,Expense
+2026-01-22,Dining Out,3647,Expense
+2026-02-04,Salary,23167,Income
+2026-02-11,Dining Out,199,Expense
+2026-01-30,Shopping,6945,Expense
+2026-01-03,Groceries,3711,Expense
+2026-01-07,Rent,5564,Expense
+2026-02-19,Rent,4376,Expense
+2026-01-10,Transport,2692,Expense
+2026-02-17,Dining Out,3994,Expense
+2026-02-28,Bonus,18756,Income
+2026-02-23,Rent,6318,Expense
+2026-02-27,Rent,3897,Expense
+2026-01-19,Internet,5127,Expense
+2026-01-17,Internet,1442,Expense
+2026-01-11,Rent,531,Expense
+2026-01-07,Internet,6459,Expense
+2026-02-04,Groceries,1553,Expense
+2026-01-13,Groceries,112,Expense
+2026-01-02,Shopping,4742,Expense
+2026-01-21,Bonus,46375,Income
+2026-02-11,Internet,6684,Expense
+2026-01-04,Utilities,5687,Expense
+2026-01-06,Internet,1321,Expense
+2026-02-04,Rent,3183,Expense
+2026-01-02,Rent,6640,Expense
+2026-01-22,Salary,43284,Income
+2026-01-05,Rent,5971,Expense
+2026-02-21,Rent,692,Expense
+2026-02-11,Dining Out,4725,Expense
+2026-01-03,Internet,7710,Expense
+2026-01-17,Salary,46309,Income
+2026-01-09,Salary,41699,Income
+2026-01-15,Shopping,7222,Expense
+2026-01-10,Internet,2703,Expense
+2026-01-23,Utilities,1073,Expense
+2026-01-25,Utilities,1451,Expense
+2026-01-09,Utilities,2760,Expense
+2026-01-09,Bonus,32210,Income
+2026-02-13,Utilities,3511,Expense
+2026-01-08,Freelance,11891,Income
+2026-02-07,Bonus,13623,Income
+2026-02-01,Dining Out,3833,Expense
+2026-01-24,Salary,32430,Income
+2026-01-13,Bonus,44710,Income
+2026-02-12,Utilities,6265,Expense
+2026-02-19,Dining Out,677,Expense
+2026-03-01,Shopping,1262,Expense
+2026-02-15,Salary,24770,Income
+2026-02-26,Internet,4433,Expense
+2026-01-12,Groceries,2533,Expense
+2026-02-13,Rent,5057,Expense
+2026-01-07,Bonus,17848,Income
+2026-02-17,Transport,914,Expense
+2026-02-26,Bonus,15995,Income
+2026-01-11,Freelance,11405,Income
+2026-01-19,Groceries,2776,Expense
+2026-02-24,Groceries,3219,Expense
+2026-02-25,Groceries,1549,Expense
+2026-02-24,Dining Out,461,Expense
+2026-02-10,Freelance,22849,Income
+2026-02-27,Transport,5432,Expense
+2026-02-06,Utilities,4259,Expense
+2026-01-13,Bonus,18289,Income
+2026-01-17,Shopping,3918,Expense
+2026-01-17,Internet,5382,Expense
+2026-02-14,Shopping,5014,Expense
+2026-02-02,Internet,6580,Expense
+2026-01-07,Salary,34468,Income
+2026-02-25,Shopping,4795,Expense
+2026-01-17,Dining Out,4805,Expense
+2026-01-12,Internet,517,Expense
+2026-01-13,Utilities,6310,Expense
+2026-02-19,Utilities,1229,Expense
+2026-02-12,Groceries,2586,Expense
+2026-02-02,Bonus,48629,Income
+2026-02-05,Transport,5073,Expense
+2026-02-20,Shopping,1297,Expense
+2026-01-18,Internet,3251,Expense
+2026-01-19,Dining Out,2902,Expense
+2026-01-25,Dining Out,2643,Expense
+2026-01-22,Dining Out,3820,Expense
+2026-01-08,Shopping,310,Expense
+2026-02-04,Rent,5535,Expense
+2026-02-09,Groceries,6796,Expense
+2026-01-12,Freelance,34843,Income
+2026-01-31,Dining Out,5138,Expense
+2026-01-24,Bonus,22023,Income
+2026-01-08,Dining Out,3448,Expense
+2026-01-04,Shopping,4418,Expense
+2026-01-13,Dining Out,3400,Expense
+2026-02-14,Internet,1123,Expense
+2026-01-08,Transport,2367,Expense
+2026-01-11,Groceries,5840,Expense
+2026-01-04,Groceries,6294,Expense
+2026-02-02,Internet,1108,Expense
+2026-01-09,Utilities,7109,Expense
+2026-01-27,Bonus,47212,Income
+2026-02-02,Rent,6107,Expense
+2026-01-24,Shopping,4375,Expense
+2026-02-25,Shopping,4243,Expense
+2026-01-13,Salary,11242,Income
+2026-01-31,Dining Out,6007,Expense
+2026-01-04,Rent,3190,Expense
+2026-02-21,Salary,47105,Income
+2026-02-06,Groceries,5947,Expense
+2026-02-02,Utilities,2341,Expense
+2026-01-06,Groceries,3745,Expense
+2026-01-21,Transport,3938,Expense
+2026-01-09,Utilities,4789,Expense
+2026-01-27,Bonus,31356,Income
+2026-01-05,Freelance,49192,Income
+2026-03-02,Bonus,10270,Income
+2026-02-13,Utilities,5469,Expense
+2026-02-21,Salary,30886,Income
+2026-01-04,Salary,38065,Income
+2026-01-18,Utilities,1539,Expense
+2026-02-07,Transport,7474,Expense
+2026-02-11,Freelance,16956,Income
+2026-01-09,Freelance,26219,Income
+2026-01-29,Bonus,44061,Income
+2026-02-13,Rent,6069,Expense
+2026-02-06,Salary,13893,Income
+2026-02-06,Freelance,47074,Income
+2026-01-16,Salary,44653,Income
+2026-01-18,Internet,6277,Expense
+2026-01-25,Rent,1784,Expense
+2026-01-08,Utilities,7554,Expense
+2026-01-25,Rent,2973,Expense
+2026-01-12,Salary,49932,Income
+2026-02-05,Freelance,46637,Income
+2026-02-17,Groceries,6524,Expense
+2026-01-01,Salary,39274,Income
+2026-01-12,Groceries,4312,Expense
+2026-01-05,Utilities,5895,Expense
+2026-01-14,Groceries,7747,Expense
+2026-02-12,Rent,4157,Expense
+2026-02-17,Shopping,1324,Expense
+2026-01-25,Bonus,23136,Income
+2026-01-02,Groceries,4744,Expense
+2026-01-04,Internet,5906,Expense
+2026-01-03,Shopping,6120,Expense
+2026-02-01,Internet,7191,Expense
+2026-01-08,Rent,1878,Expense
+2026-02-03,Utilities,3629,Expense
+2026-01-09,Bonus,26759,Income
+2026-01-01,Internet,6478,Expense
+2026-02-09,Internet,299,Expense
+2026-02-09,Freelance,28483,Income
+2026-02-15,Internet,6026,Expense
+2026-02-23,Rent,7619,Expense
+2026-01-31,Freelance,23630,Income
+2026-02-17,Internet,7511,Expense
+2026-02-26,Freelance,40255,Income
+2026-02-24,Bonus,10159,Income
+2026-01-30,Salary,47020,Income
+2026-01-17,Salary,22486,Income
+2026-02-18,Dining Out,7128,Expense
+2026-01-06,Groceries,3629,Expense
+2026-01-05,Utilities,4452,Expense
+2026-02-28,Freelance,10819,Income
